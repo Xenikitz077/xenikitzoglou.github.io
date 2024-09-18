@@ -1,1 +1,0 @@
-<li><a href="https://www.instagram.com/paraxeniaa/" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
